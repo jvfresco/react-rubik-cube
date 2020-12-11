@@ -8,9 +8,9 @@ Web application that renders a playable version of a Rubik Cube in a 3D envrione
 
 With this project I wanted to go one step further and I learned how to use three.js. It is implemented using the [React Three Fiber library](https://github.com/pmndrs/react-three-fiber)
 
--React
--React Three Fiber
--Functional components, hooks and custom hooks
+- React
+- React Three Fiber
+- Functional components, hooks and custom hooks
 
 ## Game functionalities
 
@@ -21,16 +21,16 @@ To rotate the camera, simply click and drag outside the rubik cube. <br />
 
 - Options
 
-Shuffle: randomly shuffles the cube
-Solve: traces back all movements to the beginning (there is not a solving algorithm implemented)
-Undo: returns back one movement
-Redo: repeats an undone movement
+Shuffle: randomly shuffles the cube. <br />
+Solve: traces back all movements to the beginning (there is not a solving algorithm implemented).<br />
+Undo: returns back one movement.<br />
+Redo: repeats an undone movement.<br />
 
 ## To do, or improve
 
-- Winning status recognition
-- Implementation of solving algorithms
-- Fix for a bug when changing the axis when dragged in one movement 
+- Winning status recognition.<br />
+- Implementation of solving algorithms.<br />
+- Fix for a bug when changing the axis when dragged in one movement.<br />
 
 
 
