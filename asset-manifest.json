@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-rubik-cube/static/css/main.0d0f3731.chunk.css",
+    "main.js": "/react-rubik-cube/static/js/main.e0c0d534.chunk.js",
+    "main.js.map": "/react-rubik-cube/static/js/main.e0c0d534.chunk.js.map",
+    "runtime-main.js": "/react-rubik-cube/static/js/runtime-main.6f24f1ba.js",
+    "runtime-main.js.map": "/react-rubik-cube/static/js/runtime-main.6f24f1ba.js.map",
+    "static/js/2.6be984a5.chunk.js": "/react-rubik-cube/static/js/2.6be984a5.chunk.js",
+    "static/js/2.6be984a5.chunk.js.map": "/react-rubik-cube/static/js/2.6be984a5.chunk.js.map",
+    "index.html": "/react-rubik-cube/index.html",
+    "precache-manifest.af87e9e71d5cf3d4f439a3fe3c08196c.js": "/react-rubik-cube/precache-manifest.af87e9e71d5cf3d4f439a3fe3c08196c.js",
+    "service-worker.js": "/react-rubik-cube/service-worker.js",
+    "static/css/main.0d0f3731.chunk.css.map": "/react-rubik-cube/static/css/main.0d0f3731.chunk.css.map",
+    "static/js/2.6be984a5.chunk.js.LICENSE.txt": "/react-rubik-cube/static/js/2.6be984a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f24f1ba.js",
+    "static/js/2.6be984a5.chunk.js",
+    "static/css/main.0d0f3731.chunk.css",
+    "static/js/main.e0c0d534.chunk.js"
+  ]
+}
