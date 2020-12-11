@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cc2f9132cda036020ce7d70d87450c1",
+    "revision": "84c33508c5fb0350359a7eee46dd74b5",
     "url": "/react-rubik-cube/index.html"
   },
   {
-    "revision": "dc5bb7a9dbc6e69510dd",
-    "url": "/react-rubik-cube/static/css/main.0d0f3731.chunk.css"
+    "revision": "857c8a271a64df437ee5",
+    "url": "/react-rubik-cube/static/css/main.76bedcc3.chunk.css"
   },
   {
     "revision": "295b1ef8be044c4979e7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-rubik-cube/static/js/2.6be984a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc5bb7a9dbc6e69510dd",
+    "revision": "857c8a271a64df437ee5",
     "url": "/react-rubik-cube/static/js/main.e0c0d534.chunk.js"
   },
   {
