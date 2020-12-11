@@ -4,7 +4,7 @@ Try a live version of the application [here](https://fispe.github.io/react-rubik
 
 ## React Rubik Cube
 
-Web application that renders a playable version of a Rubik Cube in a 3D envrionement
+Web application that renders a playable version of a Rubik Cube in a 3D environment
 
 With this project I wanted to go one step further and I learned how to use three.js. It is implemented using the [React Three Fiber library](https://github.com/pmndrs/react-three-fiber)
 
