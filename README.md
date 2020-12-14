@@ -30,7 +30,7 @@ Redo: repeats an undone movement.<br />
 
 - Winning status recognition.<br />
 - Implementation of solving algorithms.<br />
-- Fix for a bug when changing the axis when dragged in one movement.<br />
+- Fix a bug existing when changing the axis when the face is dragged in the same movement.<br />
 
 
 
