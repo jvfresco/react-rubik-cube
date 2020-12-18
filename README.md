@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Try a live version of the application [here](https://fispe.github.io/react-rubik-cube/)
+Try a live version of the application [here](https://jvfresco.github.io/react-rubik-cube/)
 
 ## React Rubik Cube
 
